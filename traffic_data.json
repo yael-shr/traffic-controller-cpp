@@ -1,0 +1,7 @@
+{
+  "selected_phase": 1,
+  "phase_description": "North-South Straight",
+  "active_lanes": [1, 5],
+  "status": "Optimization Mode",
+  "decision_reason": "High volume detected on main axis"
+}
